@@ -113,4 +113,4 @@ loan-default-dt-flask/
 #### Graphviz for visualization
 #### PostgreSQL community
 
-##### Feel free to ask if you want me to adjust or expand this further 
+##### Feel free to ask if you want me to adjust or expand this further .

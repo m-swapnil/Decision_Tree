@@ -1,5 +1,5 @@
 # Loan Default Prediction Using Decision Tree
-## This project aims to build an end-to-end Machine Learning pipeline to predict loan defaults and deploy it via a Flask web application. It follows the CRISP-ML(Q) methodology, focusing on minimizing loan defaulters while maximizing profitability for the bank.
+#### This project aims to build an end-to-end Machine Learning pipeline to predict loan defaults and deploy it via a Flask web application. It follows the CRISP-ML(Q) methodology, focusing on minimizing loan defaulters while maximizing profitability for the bank.
 
 ### 🚀 Business Objective 
 #### Problem: Significant proportion of customers are defaulting on loans.

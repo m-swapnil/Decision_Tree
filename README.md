@@ -87,19 +87,19 @@
 #### Upload a CSV or Excel file and get predictions on loan default risk.
 
 ## 🗂️ Project Structure
-loan-default-dt-flask/
-│
-├── credit.csv
-├── app.py
-├── DT.pkl
-├── imp_enc_scale
-├── winsor
-├── Report1.html
-├── templates/
-│   ├── index.html
-│   └── new.html
-├── requirements.txt
-└── README.md
+###### loan-default-dt-flask/
+###### │
+###### ├── credit.csv
+###### ├── app.py
+###### ├── DT.pkl
+###### ├── imp_enc_scale
+###### ├── winsor
+###### ├── Report1.html
+###### ├── templates/
+###### │   ├── index.html
+###### │   └── new.html
+###### ├── requirements.txt
+###### └── README.md
 
 ## 🏆 Results
 #### ✅ Achieved over 92% accuracy on test data

@@ -8,9 +8,9 @@
 
 ## Success Criteria:
 
-#### Reduce loan defaulters by at least 10%
-#### Achieve ML accuracy over 92%
-#### Save the bank more than 1.2 million USD
+###### Reduce loan defaulters by at least 10%
+###### Achieve ML accuracy over 92%
+###### Save the bank more than 1.2 million USD
 
 ## 📁 Dataset
 

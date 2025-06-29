@@ -3,14 +3,14 @@
 
 ## 🚀 Business Objective 
 
-###### Problem: Significant proportion of customers are defaulting on loans.
-###### Goal: Minimize loan defaulters while maximizing bank profit.
+##### Problem: Significant proportion of customers are defaulting on loans.
+##### Goal: Minimize loan defaulters while maximizing bank profit.
 
 ## Success Criteria:
 
-###### Reduce loan defaulters by at least 10%
-###### Achieve ML accuracy over 92%
-###### Save the bank more than 1.2 million USD
+##### Reduce loan defaulters by at least 10%
+##### Achieve ML accuracy over 92%
+##### Save the bank more than 1.2 million USD
 
 ## 📁 Dataset
 
@@ -87,19 +87,19 @@
 #### Upload a CSV or Excel file and get predictions on loan default risk.
 
 ## 🗂️ Project Structure
-###### loan-default-dt-flask/
-###### │
-###### ├── credit.csv
-###### ├── app.py
-###### ├── DT.pkl
-###### ├── imp_enc_scale
-###### ├── winsor
-###### ├── Report1.html
-###### ├── templates/
-###### │   ├── index.html
-###### │   └── new.html
-###### ├── requirements.txt
-###### └── README.md
+##### loan-default-dt-flask/
+##### │
+##### ├── credit.csv
+##### ├── app.py
+##### ├── DT.pkl
+##### ├── imp_enc_scale
+##### ├── winsor
+##### ├── Report1.html
+##### ├── templates/
+##### │   ├── index.html
+##### │   └── new.html
+##### ├── requirements.txt
+##### └── README.md
 
 ## 🏆 Results
 #### ✅ Achieved over 92% accuracy on test data

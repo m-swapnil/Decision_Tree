@@ -3,8 +3,8 @@
 
 ## 🚀 Business Objective 
 
-##### Problem: Significant proportion of customers are defaulting on loans.
-##### Goal: Minimize loan defaulters while maximizing bank profit.
+###### Problem: Significant proportion of customers are defaulting on loans.
+###### Goal: Minimize loan defaulters while maximizing bank profit.
 
 ## Success Criteria:
 
